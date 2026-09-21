@@ -353,6 +353,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[QualityMax](https://qualitymax.io/)** – Independent AI QA platform that generates, executes, and gates tests across web, mobile, API, performance, and security, with self-healing automation.
 - **[rung](https://github.com/rung-dev/rung)** – Deterministic, AI-free CI gate that checks whether an AI coding agent ran the checks it claims: reads an evidence bundle from the real run and passes or blocks the build. Ships as a GitHub Action, CLI, and agent-agnostic skill.
 - **[squirrelscan](https://squirrelscan.com)** – CLI website audit tool built for coding agents (Claude Code, Cursor). Runs 260+ rules across SEO, performance, security, accessibility and agent experience, and hands the agent exact, source-mapped fixes. Free local audits, GitHub Action, MCP server.
+-  **[Netra](https://getnetra.ai)** – O
+bservability and evaluation platform for AI and voice agents, built for engineering teams shipping production LLM apps. Traces every LLM call and tool execution, runs evaluations across 14+ model providers, and simulates multi-turn conversations before they hit production.
 
 ---
 
